@@ -1,4 +1,6 @@
-body {}
+body {
+    margin: 0px;
+}
 
 header {
     height: 150px;
@@ -6,11 +8,18 @@ header {
     background-color: rgb(140, 210, 231);
     background-size: ;
 
-
 }
 
 .logo {
     width: 200px;
     padding: ;
 
+}
+
+.write-by {
+    margin: 0px;
+}
+
+.important {
+    background-color: yellow;
 }
