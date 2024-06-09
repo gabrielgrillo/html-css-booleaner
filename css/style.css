@@ -11,6 +11,7 @@ header {
 
 main {
     padding-left: 200px;
+    padding-right: 200px;
 }
 
 .logo {
@@ -32,9 +33,15 @@ ol {
     background-color: yellow;
 }
 
+table {
+    text-align: justify;
+    padding-right: 200px;
+}
+
 footer {
     background-color: rgb(38, 38, 75);
     color: white;
     height: 100px;
     text-align: center;
+    padding-top: 50px;
 }
